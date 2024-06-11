@@ -17,7 +17,7 @@ export const Header = () => {
                         <li>
                             <Link href="/" className="relative text-white  transition-colors duration-300 before:absolute before:left-0 before:-bottom-2 before:w-0 before:h-0.5 before:bg-white before:rounded-full before:transition-all before:duration-300 hover:before:w-full">Nosotros
                             </Link>
-                        </li>v  b  
+                        </li>  
                         <li>
                             <Link href="/" className="relative text-white  transition-colors duration-300 before:absolute before:left-0 before:-bottom-2 before:w-0 before:h-0.5 before:bg-white before:rounded-full before:transition-all before:duration-300 hover:before:w-full">Servicios
                             </Link>
